@@ -1,8 +1,4 @@
-// Copyright (c) 2013-2017 The btcsuite developers
-// Use of this source code is governed by an ISC
-// license that can be found in the LICENSE file.
-
-package bchlog
+package newp2plog
 
 // Logger is an interface which describes a level-based logger.  A default
 // implementation of Logger is implemented by this package and can be created
